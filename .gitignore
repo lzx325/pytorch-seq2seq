@@ -109,3 +109,4 @@ venv.bak/
 data/
 models/
 .vector_cache/
+.vscode/
